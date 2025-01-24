@@ -27,7 +27,7 @@
     "redux": "^4.2.1",
     "redux-thunk": "^2.4.2",
     "remove": "^0.1.5",
-    "shortid": "^2.2.16",
+    "shortid": "^2.2.17",
     "speakeasy": "^2.0.0",
     "universal-analytics": "^0.5.3"
   },
